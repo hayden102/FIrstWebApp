@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIrstWebApp", "FIrstWebApp\FIrstWebApp.csproj", "{6A5374F6-5247-4B16-93C3-E26B29F4DF7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5374F6-5247-4B16-93C3-E26B29F4DF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5374F6-5247-4B16-93C3-E26B29F4DF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5374F6-5247-4B16-93C3-E26B29F4DF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5374F6-5247-4B16-93C3-E26B29F4DF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B287E6-547E-4B36-AB64-548A553E16BA}
+	EndGlobalSection
+EndGlobal
